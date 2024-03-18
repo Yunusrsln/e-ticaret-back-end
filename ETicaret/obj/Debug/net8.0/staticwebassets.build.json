@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "gFcta7NaAzBRZzZPpJYMcw8bEPeKtTa7+z6h7lneR1w=",
+  "Source": "ETicaret",
+  "BasePath": "_content/ETicaret",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ETicaret\\wwwroot",
+      "Source": "ETicaret",
+      "ContentRoot": "C:\\Users\\yarslan\\srcyunus\\ETicaret\\wwwroot\\",
+      "BasePath": "_content/ETicaret",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
